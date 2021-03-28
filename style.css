@@ -6,10 +6,11 @@ span{
     background-color: palevioletred;
 }
 
-
-#p1{
+.para p{
     border: 5px solid green ;
 }
+
+
 #p2{
     border: 1rem solid green ;
 }
