@@ -1,0 +1,19 @@
+span{
+    color: red;
+}
+
+.para1{
+    background-color: palevioletred;
+}
+
+.para p{
+    border: 5px solid green ;
+}
+
+
+#p2{
+    border: 1rem solid green ;
+}
+#p3{
+    border: 1em solid green ;
+}
